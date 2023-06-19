@@ -1,7 +1,7 @@
 # aluraPlus
 
 # Resumo do projeto
-O site AluraPlus é o resultado da segunda semana de estudo para o Challenge Alura de front-end!
+O site aluraPlus é o resultado da segunda semana de estudo para o Challenge Alura de front-end!
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
