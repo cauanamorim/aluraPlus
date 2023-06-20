@@ -224,5 +224,9 @@ body {
     .footer__lista {
         display: block;
     }
+    .footer__item{
+
+        margin-bottom: 1em;
+    }
 
 }
