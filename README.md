@@ -1,6 +1,7 @@
 <p align="center"># aluraPlus</p>
 
 
+![Untitled (1)](https://github.com/cauanamorim/aluraPlus/assets/10221932/daaf5a69-198e-4f09-8bb9-7eaf623126ef)
 
 ![Imagem da AluraPlus](https://github.com/cauanamorim/aluraPlus/assets/10221932/df0266a6-3890-4376-af02-f522277294cc)
 
